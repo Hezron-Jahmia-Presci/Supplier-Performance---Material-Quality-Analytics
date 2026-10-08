@@ -1,4 +1,4 @@
-# Supplier Performance & Material Quality Analytics for Spiro Uganda
+# Supplier Performance & Material Quality Analytics
 
 An end-to-end analytics solution combining **Data Warehousing (DW)**, **OLAP / Business Intelligence** and **Data Mining (Apriori association rules)** to evaluate supplier performance and material quality for an electric-motorcycle manufacturer.
 
